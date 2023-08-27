@@ -1,0 +1,27 @@
+{
+  "service": {
+    "organization": "organization-api",
+    "user": "user-api",
+    "robot-ss": "robot-ss-api",
+    "material-server-api": "material-server-api"
+  },
+  "imageType": "image/jpg,image/png,image/gif,image/jpeg,image/bmp",
+  "imgURL": "https://172.16.103.12/nfs",
+  "videoURL": "https://172.16.103.12/nfs",
+  "fileURL": "https://172.16.103.12/nfs",
+  "synthesisMode": 2,
+  "redirectPath": "/dve/#/digital/editor",
+  "login": {
+    "verifyFlag": 1
+  },
+  "subTitle": [
+    {
+      "key": "v0",
+      "label":"默认主题"
+    },
+    {
+      "key": "v1",
+      "label":"雨花政策"
+    }
+  ]
+}
